@@ -1,4 +1,4 @@
-package com.sparta.myselectshop.excetion;
+package com.sparta.myselectshop.exception;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
